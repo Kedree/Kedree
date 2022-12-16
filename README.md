@@ -1,9 +1,8 @@
-Hello! my name is Kedree Proffitt, I am a dual major at the University of Michigan Flint pursuing Physics and Data Analytics. I enjoy using techonology to
+Hello! my name is Kedree Proffitt, I ~~am~~ was a dual major at the University of Michigan Flint pursuing Physics ~~and Data Analytics~~ (they did not offer enough classes in time for me to graduate on time, I will instead graduate early). I enjoy using techonology to
 make the surreptitious kernels of knowledge that hide in plain sight more obvious. By using data analytics and a deep knowledge of our topic we can solve any
 problem that crosses our skiddish gaze!
 
-I am currently taking an electricity and magnetism class so my work will mostly be composed of that for a while as I have little time for much else, but some
-other interesting projects I have undertaken are listed below:
+Here are some highlights of some interesting projects I have undertaken:
 
 
 **Data Analytics**
