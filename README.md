@@ -23,7 +23,7 @@ The coursepack is not complete yet. I will upload something when it is finished.
     * Obtained asteroid and meteorite data from NASA's database API
     * Cleaned the data to include only relevant near-earth data
     * Combined this with other NASA close approach data to create a stronger data set with more information on each asteroid
-    * Created many figures with some help from classmates, but I am most proud of this image, which was made by myself only. More info is available in my DataAnalysisUMF repo
+    * Created many figures with some help from classmates, but I am most proud of this image that I made. More info is available in my DataAnalysisUMF repository.
 ![5 1(1)](https://user-images.githubusercontent.com/57106518/192345837-c94a8058-2f70-4ebc-a8ec-0b34e213101a.jpg)
 
 
