@@ -1,6 +1,6 @@
-Hello! My name is Kedree Proffitt, and I was a dual major at the University of Michigan Flint pursuing Physics. I am currently a PhD student in Medical Physics at Wayne State University. I enjoy using technology to make the surreptitious kernels of knowledge that hide in plain sight more obvious. By using data analytics and a deep understanding of our topic, we can solve any problem that crosses our path.
+Hello! My name is Kedree Proffitt, and I was a dual major at the University of Michigan Flint pursuing Physics. I am currently a PhD student in Medical Physics at Wayne State University. I enjoy using modern technology to elucidate the kernels of knowledge that hide in plain sight. By using data analytics and a deep understanding of our topic, we can solve any problem that crosses our path.
 
-Here are some highlights of some interesting projects I have undertaken:
+Here are the highlights of _some_ of the more interesting projects I have undertaken:
 
 **Radionuclide Physics Teaching (RT4220 Wayne State)**
 
