@@ -30,7 +30,7 @@ The coursepack is not complete yet. I will upload something when it is finished.
 * Used Car Data (CSC 302 Midterm)
     * Obtained data on used cars in the US via Kaggle
     * Cleaned the data and tried to extract some useful insights
-    * With a limited dataset, it was quite hard to find useful information, but out came a garish figure that I *was* proud of at the time, improvement is good!
+    * With a limited dataset, it was quite hard to find useful information. It's not pleasant on the eyes according to my new higher standards, but I *was* proud of it at the time; improvement is good!
 ![PriceandMilesDrivenHexBin](https://user-images.githubusercontent.com/57106518/192346662-b20f9671-a81a-4dda-b68b-b1d8f12783cb.png)
 
 * Many more Data Analytics Projects to come!
