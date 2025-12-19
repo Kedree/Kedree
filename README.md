@@ -2,6 +2,10 @@ Hello! My name is Kedree Proffitt, and I was a dual major at the University of M
 
 Here are some highlights of some interesting projects I have undertaken:
 
+**Radionuclide Physics Teaching (RT4220 Wayne State)**
+Taught 11 students radionuclide physics (among other basic medical physics concepts) with original lectures and post-lecture assignments. Unfortunately, my hands were tied in creating new exams, so I was forced to use the previous lecturer's work with slight modification (no change in content). I am very proud of myself and my students, physics is not their forte! They all passed with flying colors, an A- median! I think that the following _thank you_ letter that I received speaks for itself:
+<img width="1423" height="994" alt="image" src="https://github.com/user-attachments/assets/c0df19c0-5f11-4f9f-9740-9f66d8c21c11" />
+
 
 **Data Analytics**
 * Near Earth Objects (CSC 302 Final and Pet Project for Weeks)
