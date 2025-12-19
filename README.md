@@ -9,9 +9,11 @@ Taught 11 students radionuclide physics (among other basic medical physics conce
 <img width="1423" height="994" alt="image" src="https://github.com/user-attachments/assets/c0df19c0-5f11-4f9f-9740-9f66d8c21c11" />
 
 **Master's Thesis: Clinical Characterization of a Coded Aperture/Compton Camera**
+
 A Work-in-progress! Some abstracts and papers are in the work as of now too!
 
 **The Physics of Radiation Therapy Coursepack Development (ROC 7020)**
+
 My work as a TA for F2025 was assigned after the semester had finished due to bureaucratic miasma and a last-minute TA appointment. We decided that revamping the lecture slides and converting them into a _coursepack_ style a la. Dr. Jay Burmeister's courses would be beneficial and sufficient work. I will be TA'ing that same course in W2026 very soon! The coursepack I am writing with the help of Dr Boggula includes novel work, and converting slides into a book is more work than expected!
 
 The coursepack is not complete yet. I will upload something when it is finished.
